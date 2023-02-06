@@ -3,7 +3,7 @@
 - GET Method : Get API Status
 - GET Method : Get List of Books
 - GET Method : Get a Single Book
-- POST Method : Ordering a book
+- POST Method : Ordering a Book
 - GET Method : Getting All Orders
 - GET Method : Get a Single Order
 - PATCH Method : Update an Order
